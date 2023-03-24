@@ -13,9 +13,8 @@ import sk from './sk';
 import sv from './sv';
 import uz from './uz';
 import zh from './zh';
-import zhTW from './zhTW';
 
-const locales = [cs, da, de, en, es, fr, it, ja, ko, pl, ru, sk, sv, uz, zh, zhTW];
+const locales = [cs, da, de, en, es, fr, it, ja, ko, pl, ru, sk, sv, uz, zh];
 
 export default locales;
 

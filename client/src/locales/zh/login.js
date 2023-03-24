@@ -1,20 +1,20 @@
 export default {
   translation: {
     common: {
-      emailOrUsername: '邮箱或用户名',
-      invalidEmailOrUsername: '错误的邮箱或用户名',
-      invalidPassword: '密码错误',
-      logInToPlanka: '登录至 Planka',
-      noInternetConnection: '没有网络连接',
-      pageNotFound_title: '页面找不到',
-      password: '密码',
-      projectManagement: '项目管理',
-      serverConnectionFailed: '服务连接失败',
-      unknownError: '未知错误，请稍后重试',
+      emailOrUsername: '信箱或用戶名稱',
+      invalidEmailOrUsername: '錯誤的信箱或用戶稱',
+      invalidPassword: '密碼錯誤',
+      logInToPlanka: '登入至 Planka',
+      noInternetConnection: '沒有網路連接',
+      pageNotFound_title: '頁面找不到',
+      password: '密碼',
+      projectManagement: '專案管理',
+      serverConnectionFailed: '伺服器連線失敗',
+      unknownError: '未知錯誤，請稍後重試',
     },
 
     action: {
-      logIn: '登录',
+      logIn: '登入',
     },
   },
 };
